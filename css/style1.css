@@ -5,7 +5,7 @@
 .clearfix:after { clear: both; }
 
 body {
-	color: #8a8c7e;
+	color: #a0a0a0;
 	font-size: 100%;
 	line-height: 1.25;
 	font-family: 'Open Sans', 'Avenir Next', Arial, sans-serif;
@@ -83,8 +83,8 @@ a:hover, a:focus {
 .overlay nav {
 	text-align: center;
 	position: relative;
-	top: 50%;
-	height: 60%;
+	top: 40%;
+	height: 55%;
 	font-size: 54px;
 	-webkit-transform: translateY(-50%);
 	transform: translateY(-50%);
@@ -108,7 +108,7 @@ a:hover, a:focus {
 
 .overlay ul li a {
 	font-weight: 300;
-	display: block;
+
 	color: #fff;
 	-webkit-transition: color 0.2s;
 	transition: color 0.2s;
